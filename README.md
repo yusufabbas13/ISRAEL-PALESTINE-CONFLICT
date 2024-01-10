@@ -39,6 +39,4 @@ DISCLAIMER:
 
 This dataset and analysis aim to provide an objective overview based on available data. It is essential to approach this sensitive topic with empathy, recognizing the multifaceted nature of the conflict and its impact on countless lives.
 
-NOTE:
 
-Any suggestions towards predictive data analytics and ML would be very helpful on further developing this code.
